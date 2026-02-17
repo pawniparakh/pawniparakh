@@ -1,5 +1,5 @@
 # 💫 About Me:
-SkillSnap (AI-powered resume analysis & skill matching)<br>Strengthening my Python & backend fundamentals<br><br>Beginner-friendly open-source projects<br>Python/AI-ML/Web projects<br>Real-world AI/ML project guidance<br><br>Python<br>Data Structures & Algorithms<br>Machine Learning Basics<br>Git & GitHub best practices<br><br>Python basics & problem solving<br>Beginner project planning<br><br>I'm disciplined with my goals, emotional with my journey and once I commit to learning - I don't quit
+Strengthening my Python & backend fundamentals<br><br>Beginner-friendly open-source projects<br>Python/AI-ML/Web projects<br>Real-world AI/ML project guidance<br><br>Python<br>Data Structures & Algorithms<br>Machine Learning Basics<br>Git & GitHub best practices<br><br>Python basics & problem solving<br>Beginner project planning<br><br>I'm disciplined with my goals, emotional with my journey and once I commit to learning - I don't quit
 
 
 ## 🌐 Socials:
